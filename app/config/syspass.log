@@ -6899,3 +6899,8 @@ andatory"}
 [2020-10-28 16:52:13] syspass.ERROR: logger {"message":"Could not set locale","caller":"SP\Core\Language::setLocales"}
 [2020-10-28 16:52:13] syspass.INFO: logger {"message":"Loaded icons cache","caller":"SP\Core\UI\Theme::initIcons"}
 [2020-10-28 16:52:13] syspass.INFO: logger {"message":"Loaded actions cache","caller":"SP\Core\Acl\Actions::loadCache"}
+[2020-10-28 16:54:13] syspass.ERROR: logger {"message":"Could not set locale","caller":"SP\Core\Language::setLocales"}
+[2020-10-28 16:54:13] syspass.INFO: logger {"message":"Extensions checked","caller":"SP\Core\PhpExtensionChecker::checkMandatory"}
+[2020-10-28 16:54:13] syspass.ERROR: logger {"message":"Could not set locale","caller":"SP\Core\Language::setLocales"}
+[2020-10-28 16:54:13] syspass.INFO: logger {"message":"Loaded icons cache","caller":"SP\Core\UI\Theme::initIcons"}
+[2020-10-28 16:54:13] syspass.INFO: logger {"message":"Loaded actions cache","caller":"SP\Core\Acl\Actions::loadCache"}
