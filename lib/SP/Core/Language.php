@@ -183,7 +183,7 @@ final class Language
     {
         $lang .= '.utf8';
 
-        self::$localeStatus = setlocale(LC_MESSAGES, $lang);
+        // self::$localeStatus = setlocale(LC_MESSAGES, $lang);
 
         putenv('LANG=' . $lang);
         putenv('LANGUAGE=' . $lang);
