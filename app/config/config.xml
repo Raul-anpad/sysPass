@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <accountCount>12</accountCount>
+  <accountExpireEnabled>0</accountExpireEnabled>
+  <accountExpireTime>10368000</accountExpireTime>
+  <accountFullGroupAccess>0</accountFullGroupAccess>
+  <accountLink>1</accountLink>
+  <accountPassToImage>0</accountPassToImage>
+  <appVersion>312.20030701</appVersion>
+  <applicationUrl></applicationUrl>
+  <authBasicAutoLoginEnabled>1</authBasicAutoLoginEnabled>
+  <authBasicDomain></authBasicDomain>
+  <authBasicEnabled>1</authBasicEnabled>
+  <backup_hash>0b51b6c982defa5590dd27f7a3188efa26a240d8</backup_hash>
+  <checkUpdates>0</checkUpdates>
+  <checknotices>0</checknotices>
+  <configDate>1603896154</configDate>
+  <configHash>2d168fd12fedc05ac6e493bb4aa973ffa9b7f923</configHash>
+  <configSaver>admin</configSaver>
+  <configVersion>312.20030701</configVersion>
+  <databaseVersion>312.20030701</databaseVersion>
+  <dbHost>localhost</dbHost>
+  <dbName>sysPass1</dbName>
+  <dbPass>PK0LG66Yx:%78QXt</dbPass>
+  <dbPort>3306</dbPort>
+  <dbSocket></dbSocket>
+  <dbUser>sp_5f99713fb2b01</dbUser>
+  <debug>0</debug>
+  <demoEnabled>0</demoEnabled>
+  <dokuwikiEnabled>0</dokuwikiEnabled>
+  <dokuwikiNamespace></dokuwikiNamespace>
+  <dokuwikiPass></dokuwikiPass>
+  <dokuwikiUrl></dokuwikiUrl>
+  <dokuwikiUrlBase></dokuwikiUrlBase>
+  <dokuwikiUser></dokuwikiUser>
+  <encryptSession>0</encryptSession>
+  <export_hash></export_hash>
+  <filesAllowedExts></filesAllowedExts>
+  <filesAllowedMime>
+    <item type="filesAllowedMime">application/x-abiword</item>
+    <item type="filesAllowedMime">application/octet-stream</item>
+    <item type="filesAllowedMime">application/vnd.amazon.ebook</item>
+    <item type="filesAllowedMime">image/bmp</item>
+    <item type="filesAllowedMime">application/x-bzip</item>
+    <item type="filesAllowedMime">application/x-bzip2</item>
+    <item type="filesAllowedMime">application/x-csh</item>
+    <item type="filesAllowedMime">text/csv</item>
+    <item type="filesAllowedMime">application/msword</item>
+    <item type="filesAllowedMime">application/vnd.openxmlformats-officedocument.wordprocessingml.document</item>
+    <item type="filesAllowedMime">application/vnd.ms-fontobject</item>
+    <item type="filesAllowedMime">application/epub+zip</item>
+    <item type="filesAllowedMime">image/gif</item>
+    <item type="filesAllowedMime">text/html</item>
+    <item type="filesAllowedMime">text/calendar</item>
+    <item type="filesAllowedMime">application/java-archive</item>
+    <item type="filesAllowedMime">image/jpeg</item>
+    <item type="filesAllowedMime">application/json</item>
+    <item type="filesAllowedMime">application/vnd.apple.installer+xml</item>
+    <item type="filesAllowedMime">application/vnd.oasis.opendocument.presentation</item>
+    <item type="filesAllowedMime">application/vnd.oasis.opendocument.spreadsheet</item>
+    <item type="filesAllowedMime">application/vnd.oasis.opendocument.text</item>
+    <item type="filesAllowedMime">image/png</item>
+    <item type="filesAllowedMime">application/pdf</item>
+    <item type="filesAllowedMime">application/vnd.ms-powerpoint</item>
+    <item type="filesAllowedMime">application/vnd.openxmlformats-officedocument.presentationml.presentation</item>
+    <item type="filesAllowedMime">application/x-rar-compressed</item>
+    <item type="filesAllowedMime">application/rtf</item>
+    <item type="filesAllowedMime">application/x-sh</item>
+    <item type="filesAllowedMime">image/svg+xml</item>
+    <item type="filesAllowedMime">application/x-tar</item>
+    <item type="filesAllowedMime">text/plain</item>
+    <item type="filesAllowedMime">application/vnd.visio</item>
+    <item type="filesAllowedMime">application/xhtml+xml</item>
+    <item type="filesAllowedMime">application/vnd.ms-excel</item>
+    <item type="filesAllowedMime">application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</item>
+    <item type="filesAllowedMime">application/xml</item>
+    <item type="filesAllowedMime">application/vnd.mozilla.xul+xml</item>
+    <item type="filesAllowedMime">application/zip</item>
+    <item type="filesAllowedMime">application/x-7z-compressed</item>
+  </filesAllowedMime>
+  <filesAllowedSize>6144</filesAllowedSize>
+  <filesEnabled>1</filesEnabled>
+  <globalSearch>1</globalSearch>
+  <httpsEnabled>0</httpsEnabled>
+  <installed>1</installed>
+  <ldapAds>0</ldapAds>
+  <ldapBase></ldapBase>
+  <ldapBindPass></ldapBindPass>
+  <ldapBindUser></ldapBindUser>
+  <ldapDefaultGroup></ldapDefaultGroup>
+  <ldapDefaultProfile></ldapDefaultProfile>
+  <ldapEnabled>0</ldapEnabled>
+  <ldapGroup></ldapGroup>
+  <ldapProxyUser></ldapProxyUser>
+  <ldapServer></ldapServer>
+  <ldapTlsEnabled>0</ldapTlsEnabled>
+  <ldapType></ldapType>
+  <logEnabled>1</logEnabled>
+  <logEvents/>
+  <mailAuthenabled>0</mailAuthenabled>
+  <mailEnabled>0</mailEnabled>
+  <mailEvents></mailEvents>
+  <mailFrom></mailFrom>
+  <mailPass></mailPass>
+  <mailPort>25</mailPort>
+  <mailRecipients></mailRecipients>
+  <mailRequestsEnabled>0</mailRequestsEnabled>
+  <mailSecurity></mailSecurity>
+  <mailServer></mailServer>
+  <mailUser></mailUser>
+  <maintenance>0</maintenance>
+  <passwordSalt>93eb9317907772b01b23c440e422542809a9d4629cf1535b9bf2783383dd</passwordSalt>
+  <proxyEnabled>0</proxyEnabled>
+  <proxyPass></proxyPass>
+  <proxyPort>8080</proxyPort>
+  <proxyServer></proxyServer>
+  <proxyUser></proxyUser>
+  <publinksEnabled>0</publinksEnabled>
+  <publinksImageEnabled>0</publinksImageEnabled>
+  <publinksMaxTime>600</publinksMaxTime>
+  <publinksMaxViews>3</publinksMaxViews>
+  <resultsAsCards>0</resultsAsCards>
+  <sessionTimeout>300</sessionTimeout>
+  <siteLang>pt_BR</siteLang>
+  <siteTheme>material-blue</siteTheme>
+  <ssoDefaultGroup>0</ssoDefaultGroup>
+  <ssoDefaultProfile>2</ssoDefaultProfile>
+  <syslogEnabled>0</syslogEnabled>
+  <syslogPort>514</syslogPort>
+  <syslogRemoteEnabled>0</syslogRemoteEnabled>
+  <syslogServer></syslogServer>
+  <upgradeKey></upgradeKey>
+  <wikiEnabled>0</wikiEnabled>
+  <wikiFilter></wikiFilter>
+  <wikiPageurl></wikiPageurl>
+  <wikiSearchurl></wikiSearchurl>
+</config>
